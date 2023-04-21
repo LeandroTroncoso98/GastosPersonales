@@ -1,0 +1,14 @@
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\bin\Debug\net7.0\GastosPersonales.Models.deps.json
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\bin\Debug\net7.0\GastosPersonales.Models.dll
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\bin\Debug\net7.0\GastosPersonales.Models.pdb
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.csproj.AssemblyReference.cache
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.AssemblyInfoInputs.cache
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.AssemblyInfo.cs
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.csproj.CoreCompileInputs.cache
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.dll
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\refint\GastosPersonales.Models.dll
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.pdb
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\ref\GastosPersonales.Models.dll
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\bin\Debug\net7.0\GastosPersonales.Models.runtimeconfig.json
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Models\obj\Debug\net7.0\GastosPersonales.Models.genruntimeconfig.cache

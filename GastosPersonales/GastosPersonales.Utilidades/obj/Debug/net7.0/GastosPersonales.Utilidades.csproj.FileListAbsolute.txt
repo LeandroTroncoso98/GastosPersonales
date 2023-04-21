@@ -1,0 +1,12 @@
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\bin\Debug\net7.0\GastosPersonales.Utilidades.deps.json
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\bin\Debug\net7.0\GastosPersonales.Utilidades.dll
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\bin\Debug\net7.0\GastosPersonales.Utilidades.pdb
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\GastosPersonales.Utilidades.csproj.AssemblyReference.cache
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\GastosPersonales.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\GastosPersonales.Utilidades.AssemblyInfoInputs.cache
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\GastosPersonales.Utilidades.AssemblyInfo.cs
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\GastosPersonales.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\GastosPersonales.Utilidades.dll
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\refint\GastosPersonales.Utilidades.dll
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\GastosPersonales.Utilidades.pdb
+C:\Users\herei\OneDrive\Escritorio\Proyectos MVC\GastosPersonales\GastosPersonales\GastosPersonales.Utilidades\obj\Debug\net7.0\ref\GastosPersonales.Utilidades.dll

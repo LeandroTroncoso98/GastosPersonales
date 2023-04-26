@@ -19,7 +19,7 @@ namespace GastosPersonales.AccesoDatos.Repository
             _dbSet = context.Set<T>();
         }
 
-        public async void Add(T item)
+        public async Task Add(T item)
         {
             await _dbSet.AddAsync(item);
         }
@@ -34,7 +34,7 @@ namespace GastosPersonales.AccesoDatos.Repository
             return await _dbSet.ToListAsync();
         }
 
-        public async void Remove(int id)
+        public async Task Remove(int id)
         {
             var item = await _dbSet.FindAsync(id);
             Remove(item);

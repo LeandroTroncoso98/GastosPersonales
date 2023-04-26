@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace GastosPersonales.AccesoDatos.Data.IRepository
 {
-    public interface IUnitOfWork : IDisposable
+    public interface IUnitOfWork : IAsyncDisposable
     {
         IUsuarioRepository Usuario { get; }
-        void Save();
+        ICategoriaRepository Categoria { get; }
+        Task Save();
     }
 }

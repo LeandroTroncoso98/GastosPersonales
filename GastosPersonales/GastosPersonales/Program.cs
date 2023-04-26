@@ -11,6 +11,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("ConexionSql"));
 });
 
+
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 // Add services to the container.
@@ -26,6 +27,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
 app.UseStaticFiles();
 
 app.UseRouting();
@@ -34,6 +36,8 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{area:Cliente}/{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Inicio}/{action=Index}/{id?}");
+
+
 
 app.Run();

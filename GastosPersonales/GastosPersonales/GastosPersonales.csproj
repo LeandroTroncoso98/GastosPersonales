@@ -15,12 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Cliente\Views\" />
-    <Folder Include="Areas\Visitante\Controllers\" />
-    <Folder Include="Areas\Visitante\Views\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\GastosPersonales.AccesoDatos\GastosPersonales.AccesoDatos.csproj" />
     <ProjectReference Include="..\GastosPersonales.Models\GastosPersonales.Models.csproj" />
     <ProjectReference Include="..\GastosPersonales.Utilidades\GastosPersonales.Utilidades.csproj" />

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<GastosPersonales.Models.Models.Categoria>
+@{
+    ViewData["Title"] = "ListaCategorias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col d-flex justify-content-end">
+        <a asp-action="CrearCategoria" class="btn btn-success">Crear Categoría</a>
+    </div>
+</div>
+    <div class="row mt-5">
+        <div class="col-8 offset-2">
+            <table class="table table-hover table-striped">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nombre</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                        <tr>
+                            <td>@item.Categoria_Id</td>
+                            <td>@item.NombreCategoria</td>
+                            <td>
+                                <a asp-action="Editar" class="btn btn-warning">Editar</a>
+                                <a asp-action="Borrar" class="btn btn-danger">Borrar</a>
+                            </td>
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+@if(@Model == null){
+    <div class="row">
+        <div class="col">
+            <p class="text-center text-opacity-50">No existe categorías.</p>
+        </div>
+    </div>
+
+}

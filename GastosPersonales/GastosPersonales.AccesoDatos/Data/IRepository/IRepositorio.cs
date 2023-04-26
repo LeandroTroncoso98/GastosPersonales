@@ -10,8 +10,8 @@ namespace GastosPersonales.AccesoDatos.Data.IRepository
     {
         Task<T> Get(int id);
         Task<IEnumerable<T>> GetAll();
-        void Add(T item);
-        void Remove(int id);
+        Task Add(T item);
+        Task Remove(int id);
         void Remove(T item);
     }
 }

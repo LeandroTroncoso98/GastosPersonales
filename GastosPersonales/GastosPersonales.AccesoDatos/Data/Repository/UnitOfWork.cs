@@ -1,5 +1,6 @@
 ﻿using GastosPersonales.AccesoDatos.Data;
 using GastosPersonales.AccesoDatos.Data.IRepository;
+using GastosPersonales.AccesoDatos.Data.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,14 +16,16 @@ namespace GastosPersonales.AccesoDatos.Repository
         public UnitOfWork(ApplicationDbContext applicationDbContext)
         {
             _context = applicationDbContext;
+            Categoria = new CategoriaRepository(_context);
             Usuario = new UsuarioRepository(_context);
         }
-        public async void Dispose()
+        public async ValueTask DisposeAsync()
         {
             await _context.DisposeAsync();
         }
         public IUsuarioRepository Usuario { get; private set; }
-        public async void Save()
+        public ICategoriaRepository Categoria { get; private set; }
+        public async Task Save()
         {
             await _context.SaveChangesAsync();
         }
